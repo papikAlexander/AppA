@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppA</string>
+    <string name="tab_text_1">Тест</string>
+    <string name="tab_text_2">История</string>
+    <string name="sort_data">Сортировка по дате</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="edit_text_link">Link</string>
+    <string name="btn_ok">OK</string>
+    <string name="hint_editText">Введите ссылку картинки</string>
+    <string name="sort_status">Сортировка по статусу</string>
+    <string name="delete_history">Очистить историю</string>
+    <string name="refresh_data">Обновить данные</string>
+</resources>
